@@ -12,9 +12,9 @@ title                    : "Luo Fan / Personal Blog"
 title_separator          : "-"
 name                     : &name "Luo Fan"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://luofanlf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "luofanlf/luofanlf.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,17 +26,17 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "OnlyFriends"
   location         : "HangZhou"
-  employer         : "Red Brick University"
+  employer         : "National University of Singapore"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "2731305688@qq.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    :
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   researchgate     : # URL
 
   # Repositories and software development
