@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Graduate Diploma in System Analysis , National University Of Singaoire ,2026
-* Bachelor in Software Engineering , ZheJiang University Of Technology , 2025
+* G.D. in System Analysis , National University Of Singaoire ,2026
+* B.S. in Software Engineering , ZheJiang University Of Technology , 2025
 
 Work experience
 ======
